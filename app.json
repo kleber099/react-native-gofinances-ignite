@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-gofinances-ignite",
+    "slug": "react-native-gofinances-ignite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-gofinances-ignite"
+}
